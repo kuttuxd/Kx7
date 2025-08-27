@@ -1,0 +1,15 @@
+{
+  "123456789": {
+    "username": "user123",
+    "expiry": "2025-09-03 15:37:00",
+    "history": [
+      {
+        "subscription": "Premium",
+        "duration": "7 days",
+        "expiry": "2025-09-03 15:37:00",
+        "granted_at": "2025-08-27 15:37:00",
+        "action": "Granted"
+      }
+    ]
+  }
+}
